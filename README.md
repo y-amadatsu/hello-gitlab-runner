@@ -2,7 +2,7 @@
 
 Here is a sample project to check if gitlab runner is runnable specifically on mac.
 
-see) https://qiita.com/y-amadatsu/items/e67fab91e026634cb7fe
+see: https://qiita.com/y-amadatsu/items/e67fab91e026634cb7fe
 
 ```
 $ sudo curl --output /usr/local/bin/gitlab-runner https://gitlab-runner-$downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-darwin-amd64
